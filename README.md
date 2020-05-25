@@ -9,7 +9,7 @@ The tool contains a sample for 1000 password Wordlist. User can change the passw
 ## Uses
 ---
   - This tool can be used for CTFs to crack given zip file to extract flag
-  - This tool can be used in pwning machines to crack zip file to get sesitive information
+  - This tool can be used in pwning machines to crack zip file to get sensitive information
   - This tool can be used for personal purpose to crack password protected zip file
 
 

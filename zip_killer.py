@@ -27,9 +27,9 @@ xyz = \
                         \033[1;31mCrack Zip File Password \033[1;33m
                 +======================================+  
                 #           Version : v1.0             #
-	        	#	    ---------------------	       #
-				# Developed By : Encryptor             #
-				# Author       : Sathyaprakash Sahoo   #
+	        #        ---------------------	       #
+		# Developed By : Encryptor             #
+		# Author       : Sathyaprakash Sahoo   #
                 # Instagram    : _.encryptor._         #  
                 # Website      : www.cyberbuddy.co.in  #  
                 # Github       : Encryptor-Sec         #
